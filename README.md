@@ -2,6 +2,6 @@
 
 | Package | Version |
 |---------|---------|
-| Gulp CLI | 2.0.1 |
-| Node | v8.9.3 |
-| Yarn | 1.3.2 |
+| Gulp CLI | 2.2.0 |
+| Node | v10.16.0 |
+| Yarn | 1.16.0 |
